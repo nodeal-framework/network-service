@@ -1,0 +1,4 @@
+ClassName: ModuleScript
+Attributes:
+  ContentPayload: '{"Init":[["async",[true]]],"GetNetwork":[["typecheck",[[{"name":"self","type":{"kind":"reference","name":"any","path":["any"]}},{"name":"name","type":{"name":"string","kind":"basic"}}],true]]],"RegisterNetwork":[["typecheck",[[{"name":"self","type":{"kind":"reference","name":"any","path":["any"]}},{"name":"name","type":{"name":"string","kind":"basic"}}],true]]]}'
+  ResolvedPriority: 11
