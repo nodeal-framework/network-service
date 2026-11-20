@@ -4,4 +4,3 @@ root: src
 tree:
   - name: NetworkService
     target: game.ReplicatedStorage.Global.Service.NetworkService
-    depth: 0
